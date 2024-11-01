@@ -233,3 +233,6 @@ with open("rede_INFNET.txt", "r") as arquivo:
 # 16 -  Lidando com arquivos ⭐⭐
 
 # O recurso with torna o código legivel e claro ao programador, facilita o manuseio de arquivos com seus modos de leitura e escrita, fechamento automatico. Eu curti bastante o uso dele.
+
+
+# enviado
